@@ -1,0 +1,202 @@
+{
+    "26/11/2024 12:23:27": {
+        "Opening": "Italian game",
+        "Victory": 1,
+        "Precision": 73.6,
+        "Match Rating": 1150,
+        "User Rating": 1150,
+        "Type Match": "Rated",
+        "Stats Match": {
+            "Brilliant": 0,
+            "Excellent": 1,
+            "Better": 9,
+            "Great": 1,
+            "Good": 5,
+            "Book": 4,
+            "Inaccuracy": 3,
+            "Error": 1,
+            "Missed Chance": 1,
+            "Capybara": 1
+        }
+    },
+    "26/11/2024 12:53:27": {
+        "Opening": "Caro-Kann Defense",
+        "Victory": 1,
+        "Precision": 70.2,
+        "Match Rating": 1015,
+        "User Rating": 1086,
+        "Type Match": "Rated",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 0,
+            "Better": 13,
+            "Great": 1,
+            "Good": 8,
+            "Book": 6,
+            "Inaccuracy": 1,
+            "Error": 0,
+            "Missed Chance": 1,
+            "Capybara": 1
+        }
+    },
+    "27/11/2024 13:23:27": {
+        "Opening": "French Defense",
+        "Victory": 0,
+        "Precision": 85.4,
+        "Match Rating": 1465,
+        "User Rating": 866,
+        "Type Match": "Rated",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 0,
+            "Better": 12,
+            "Great": 4,
+            "Good": 2,
+            "Book": 3,
+            "Inaccuracy": 0,
+            "Error": 0,
+            "Missed Chance": 1,
+            "Capybara": 2
+        }
+    },
+    "27/11/2024 13:53:27": {
+        "Opening": "Italian game",
+        "Victory": 0,
+        "Precision": 84.3,
+        "Match Rating": 1200,
+        "User Rating": 793,
+        "Type Match": "Casual",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 2,
+            "Better": 7,
+            "Great": 1,
+            "Good": 6,
+            "Book": 3,
+            "Inaccuracy": 1,
+            "Error": 0,
+            "Missed Chance": 1,
+            "Capybara": 2
+        }
+    },
+    "28/11/2024 14:23:27": {
+        "Opening": "Pirc Defense",
+        "Victory": 1,
+        "Precision": 51.2,
+        "Match Rating": 1436,
+        "User Rating": 941,
+        "Type Match": "Casual",
+        "Stats Match": {
+            "Brilliant": 0,
+            "Excellent": 0,
+            "Better": 10,
+            "Great": 5,
+            "Good": 8,
+            "Book": 3,
+            "Inaccuracy": 2,
+            "Error": 1,
+            "Missed Chance": 2,
+            "Capybara": 1
+        }
+    },
+    "28/11/2024 14:53:27": {
+        "Opening": "French Defense",
+        "Victory": 0,
+        "Precision": 52.8,
+        "Match Rating": 1198,
+        "User Rating": 1440,
+        "Type Match": "Rated",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 2,
+            "Better": 9,
+            "Great": 3,
+            "Good": 9,
+            "Book": 6,
+            "Inaccuracy": 5,
+            "Error": 1,
+            "Missed Chance": 0,
+            "Capybara": 2
+        }
+    },
+    "29/11/2024 15:23:27": {
+        "Opening": "Scotch Game",
+        "Victory": 1,
+        "Precision": 52.3,
+        "Match Rating": 1147,
+        "User Rating": 1114,
+        "Type Match": "Casual",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 2,
+            "Better": 9,
+            "Great": 2,
+            "Good": 5,
+            "Book": 3,
+            "Inaccuracy": 1,
+            "Error": 3,
+            "Missed Chance": 0,
+            "Capybara": 2
+        }
+    },
+    "29/11/2024 15:53:27": {
+        "Opening": "Caro-Kann Defense",
+        "Victory": 1,
+        "Precision": 62.9,
+        "Match Rating": 1368,
+        "User Rating": 777,
+        "Type Match": "Casual",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 1,
+            "Better": 11,
+            "Great": 5,
+            "Good": 8,
+            "Book": 6,
+            "Inaccuracy": 3,
+            "Error": 0,
+            "Missed Chance": 0,
+            "Capybara": 1
+        }
+    },
+    "30/11/2024 16:23:27": {
+        "Opening": "Queen's Gambit",
+        "Victory": 1,
+        "Precision": 81.0,
+        "Match Rating": 932,
+        "User Rating": 1485,
+        "Type Match": "Rated",
+        "Stats Match": {
+            "Brilliant": 0,
+            "Excellent": 1,
+            "Better": 14,
+            "Great": 3,
+            "Good": 10,
+            "Book": 4,
+            "Inaccuracy": 2,
+            "Error": 0,
+            "Missed Chance": 1,
+            "Capybara": 2
+        }
+    },
+    "30/11/2024 16:53:27": {
+        "Opening": "Italian game",
+        "Victory": 1,
+        "Precision": 78.2,
+        "Match Rating": 1248,
+        "User Rating": 961,
+        "Type Match": "Casual",
+        "Stats Match": {
+            "Brilliant": 1,
+            "Excellent": 2,
+            "Better": 6,
+            "Great": 4,
+            "Good": 4,
+            "Book": 3,
+            "Inaccuracy": 0,
+            "Error": 2,
+            "Missed Chance": 1,
+            "Capybara": 0
+        }
+    }
+}
