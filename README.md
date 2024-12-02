@@ -60,6 +60,7 @@
    ```env
    USERNAME=Seu usuario do chess.com
    PASSWORD=Sua senha de acesso
+   PLAYER_NAME=Seu nome de usuario do chess.com
    ```
 
 5. **Execute as migrações do banco de dados:**
@@ -85,9 +86,6 @@
 3. **Clique em "Revisar"** e aguarde enquanto a análise é processada.
 4. **Visualize o relatório** detalhado com insights e sugestões.
 
-### Exemplo de Uso
-
-![Exemplo de Interface](https://link-para-screenshot.png)
 
 ## 🤝 Contribuição
 
