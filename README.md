@@ -103,12 +103,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🛩️ Contato
-
-- **Email**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
-
 ---
 
 Desenvolvido por Luigi Neto & Elian Abrao 🚀♟️
